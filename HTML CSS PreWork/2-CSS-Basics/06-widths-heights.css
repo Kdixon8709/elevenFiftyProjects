@@ -1,0 +1,18 @@
+.wrapper{
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+.example1{
+    height: 600px;
+    width: 50%;
+    background-color: salmon
+}
+
+.example2 img{
+    width: 712px;
+    height: 400px;
+}

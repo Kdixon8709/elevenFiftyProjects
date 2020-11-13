@@ -1,0 +1,14 @@
+{
+    "emmet.extensionsPath": "",
+    "json.schemas": [
+    
+    ]
+}
+
+{ "editor.wordWrap": "on" }
+
+{"cssPeek.supportTags":}
+
+{"cssPeek.peekFromLanguages":}
+
+{"cssPeek.peekToExclude":}

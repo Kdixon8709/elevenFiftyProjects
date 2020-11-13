@@ -1,0 +1,28 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+h1{
+    text-align: center;
+}
+/*this sets the background color of the entire body*/
+body{
+    background-image: linear-gradient(red,yellow,green);
+}
+
+/* 4 */
+.background1{
+    background-color: lightblue;
+}
+
+/* 5 */
+.background2{
+    background-image: url("../3-assets/CupcakesPinkWhite.jpg");
+}
+
+/* 7 */
+table, th, td{
+    border: 1px solid black;
+}
+
