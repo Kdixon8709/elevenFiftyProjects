@@ -1,0 +1,137 @@
+.wrapper {
+  height: auto;
+  width: 100%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  flex-direction: column;
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  background-color: #2d2d2dff;
+}
+
+li,
+a {
+  font-family: "Crimson Text", serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+  font-family: "Overpass", sans-serif;
+  text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav a {
+  flex: 1;
+  text-align: center;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  align-items: right;
+}
+/* 
+.parent {
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+} */
+
+/* .home .scrollBanner {
+  z-index: 2;
+  position: absolute;
+  bottom: 3px;
+  width: 100%;
+  text-align: center;
+  font-size: 45px;
+  box-sizing: border-box;
+  text-shadow: 0, 0 12px rgba(0, 0, 0, 0.8);
+  color: #ffffff;
+} */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h3 {
+  color: #ffffff;
+  width: 300px;
+  height: auto;
+  padding: 0;
+}
+
+.logo {
+  cursor: pointer;
+  order: 0;
+  margin-right: auto;
+  float: left;
+}
+
+.nav-links {
+  list-style: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 0px, 10px;
+}
+
+.EFA-videoLoop {
+  /* z-index: 0; */
+  object-fit: cover;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  height: 50%;
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+*/ h1 {
+  position: absolute;
+  padding: 3px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 10px;
+  color: #ffffff;
+}
+
+span {
+  color: #ffffff;
+}
+
+ul {
+  width: auto;
+  float: right;
+  margin-top: 8px;
+}
+
+li {
+  display: inline-block;
+  padding: 15px 30px;
+  text-align: center;
+  color: red;
+  text-decoration: none;
+  font-family: "Overpass", sans-serif;
+}
